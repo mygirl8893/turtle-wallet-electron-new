@@ -59,7 +59,7 @@ run the installer (`walletshell-<version>-win-setup.exe`), WalletShell will be l
 * GNU/Linux:
   * AppImage: run/execute (double click) the appimage file (`walletshell-<version>-linux.AppImage`).
   * tar.bz2 archive: extract downloaded archive, then run the executable binary (`walletshell-<version>/walletshell`) 
-* macOS: ?? extract downloaded archived, then run the executable binary (`WalletShell.app/Contents/MacOs/WalleSshell`) ?? -- _please someone help me to test it!_
+* macOS: extract the downloaded file to your `Application` folder, then double click the executable binary (`WalletShell.app`)
 
 ### Build
 You need to have `Node.js` and `npm` installed, go to https://nodejs.org and find out how to get it installed on your platform.
